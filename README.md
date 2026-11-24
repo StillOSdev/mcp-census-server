@@ -151,3 +151,26 @@ Check any host: https://stillosdigitalholdings.com/exposure
 Something wrong in your dossier? Correct it, free, no account:
 
     https://stillosdigitalholdings.com/surface/correct?host=<your-host>
+
+<!-- stillos-capture:start -->
+
+---
+
+## Your own dossier
+
+Still OS Digital Holdings LLC measures the MCP and x402 operator surface.
+If you run a server, API or agent endpoint, it probably already has a
+public, dated dossier:
+
+    https://stillosdigitalholdings.com/ratings/n/<your-host>
+
+Free with no account: your grade, your percentile in a measured
+population, and copyable badge markdown.
+
+Check any host: [https://stillosdigitalholdings.com/exposure](https://stillosdigitalholdings.com/exposure?src=gh-mcp-census-server)
+
+Something wrong in your dossier? Correct it, free, no account:
+
+[https://stillosdigitalholdings.com/surface/correct](https://stillosdigitalholdings.com/surface/correct?src=gh-mcp-census-server)
+
+<!-- stillos-capture:end -->
